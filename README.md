@@ -32,7 +32,42 @@ The Whetstone Bridge experiment explores the principles and applications of a br
 
 The formula for calculating the unknown resistance (\(R_x\)) in a Whetstone Bridge is given by:
 
-\[ R_x = R_2 \left( \frac{R_3}{R_4} \right) \]
+The formula for calculating the unknown resistance (
+�
+�
+R 
+x
+​
+ ) is given by:
+
+�
+�
+=
+�
+2
+(
+�
+3
+�
+4
+)
+R 
+x
+​
+ =R 
+2
+​
+ ( 
+R 
+4
+​
+ 
+R 
+3
+​
+ 
+​
+ )
 
 The Wheatstone Bridge is a precision circuit used to measure electrical resistance. Comprising four resistors in a diamond shape, it achieves balance when the ratio of resistances in one arm equals the ratio in the opposite arm. This experiment is vital for accurate resistance measurements in laboratories, offering a calibrated and precise method.
 
