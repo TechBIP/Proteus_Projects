@@ -24,7 +24,7 @@ To perform experiments and simulations in this repository, it is recommended to 
 1. [Wheatstone Bridge Experiment](#1wheatstone-bridge-experiment)
 2. [Pulse Width Modulation (PWM) Experiment](#2pulse-width-modulation-pwm-experiment)
 
-###1 Wheatstone Bridge Experiment
+### 1. Wheatstone Bridge Experiment
 
 The Whetstone Bridge experiment explores the principles and applications of a bridge circuit used for measuring electrical resistance. This section provides details on the Whetstone Bridge experiment conducted using Proteas software.
 
@@ -36,7 +36,7 @@ The formula for calculating the unknown resistance (\(R_x\)) in a Whetstone Brid
 
 The Wheatstone Bridge is a precision circuit used to measure electrical resistance. Comprising four resistors in a diamond shape, it achieves balance when the ratio of resistances in one arm equals the ratio in the opposite arm. This experiment is vital for accurate resistance measurements in laboratories, offering a calibrated and precise method.
 
-###2 Pulse Width Modulation (PWM) Experiment
+### 2. Pulse Width Modulation (PWM) Experiment
 
 Pulse Width Modulation (PWM) is a technique widely used in electronics for controlling the power delivered to devices. This section explores the theory and applications of PWM through experiments conducted using Proteas software.
 
