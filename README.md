@@ -1,6 +1,6 @@
 # Proteus_Software_Projects
 
-Welcome to the Proteas Software repository!
+Welcome to the Proteus Software repository!
 This repository contains experiments and simulations conducted using Proteus, a versatile software tool for electronics and signal processing. Explore the capabilities of Proteas and discover its benefits in various experiments.
 
 ## About Proteas Software
